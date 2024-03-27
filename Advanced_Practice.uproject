@@ -22,6 +22,10 @@
 		{
 			"Name": "Cargo",
 			"Enabled": true
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
 		}
 	]
 }
