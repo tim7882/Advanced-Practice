@@ -12,11 +12,19 @@
 			]
 		},
 		{
-			"Name": "Landmass",
+			"Name": "PCG",
 			"Enabled": true
 		},
 		{
-			"Name": "PCG",
+			"Name": "PCGGeometryScriptInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "Cargo",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayStateTree",
 			"Enabled": true
 		}
 	]
